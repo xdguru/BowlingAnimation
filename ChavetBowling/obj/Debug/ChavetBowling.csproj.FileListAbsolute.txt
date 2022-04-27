@@ -1,0 +1,20 @@
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.AssemblyReference.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.Ecran.resources
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.Properties.Resources.resources
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.GenerateResource.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.CoreCompileInputs.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.exe.config
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.exe
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.pdb
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.exe
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.pdb
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.exe.config
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.exe
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\bin\Debug\ChavetBowling.pdb
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.AssemblyReference.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.Ecran.resources
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.Properties.Resources.resources
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.GenerateResource.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.csproj.CoreCompileInputs.cache
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.exe
+C:\Users\Noah\OneDrive - Haute Ecole de la ville de Liège\Bloc 2-2\POO\Mes Projets\Travail Final Bowling\ChavetBowling\ChavetBowling\obj\Debug\ChavetBowling.pdb
